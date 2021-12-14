@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TIckTick(pro)</string>
+    <string name="long_about">This Xposed module is made to hook the TickTick app (link Below). This module Unlocks Themes,  Widgets and more features(Activate to check). If this module does not work then force stop the app and clear its data then login again</string>
+    <string name="dl_app">Download TickTick APP</string>
+    <string name="pbl_re">Report A Problem</string>
+    <string name="yt_channel">Youtube Channel</string>
+    <string name="tg_chan">Telegram Channel</string>
+</resources>
